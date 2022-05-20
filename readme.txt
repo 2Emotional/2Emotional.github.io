@@ -1,4 +1,4 @@
-yoinked the overlay from
+yoinked most of it from
 
 https://github.com/schoettner/schoettner.github.io
 
